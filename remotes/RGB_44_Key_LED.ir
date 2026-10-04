@@ -1,0 +1,266 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: Brightness Up
+type: parsed
+protocol: NEC
+address: 00 FF 00 00
+command: 3A C5 00 00
+# 
+name: Brightness Dn
+type: parsed
+protocol: NEC
+address: 00 FF 00 00
+command: BA 45 00 00
+# 
+name: Play Button
+type: parsed
+protocol: NEC
+address: 00 FF 00 00
+command: 82 7D 00 00
+# 
+name: Power Button
+type: parsed
+protocol: NEC
+address: 00 FF 00 00
+command: 02 FD 00 00
+# 
+name: Red Color 1
+type: parsed
+protocol: NEC
+address: 00 FF 00 00
+command: 1A E5 00 00
+# 
+name: Green Color 1
+type: parsed
+protocol: NEC
+address: 00 FF 00 00
+command: 9A 65 00 00
+# 
+name: Blue Color 1
+type: parsed
+protocol: NEC
+address: 00 FF 00 00
+command: A2 5D 00 00
+# 
+name: White Color 1
+type: parsed
+protocol: NEC
+address: 00 FF 00 00
+command: 22 DD 00 00
+# 
+name: Red Color 2
+type: parsed
+protocol: NEC
+address: 00 FF 00 00
+command: 2A D5 00 00
+# 
+name: Green Color 2
+type: parsed
+protocol: NEC
+address: 00 FF 00 00
+command: AA 55 00 00
+# 
+name: Blue Color 2
+type: parsed
+protocol: NEC
+address: 00 FF 00 00
+command: 92 6D 00 00
+# 
+name: White Color 2
+type: parsed
+protocol: NEC
+address: 00 FF 00 00
+command: 12 ED 00 00
+# 
+name: Red Color 3
+type: parsed
+protocol: NEC
+address: 00 FF 00 00
+command: 0A F5 00 00
+# 
+name: Green Color 3
+type: parsed
+protocol: NEC
+address: 00 FF 00 00
+command: 8A 75 00 00
+# 
+name: Blue Color 3
+type: parsed
+protocol: NEC
+address: 00 FF 00 00
+command: B2 4D 00 00
+# 
+name: White Color 3
+type: parsed
+protocol: NEC
+address: 00 FF 00 00
+command: 32 CD 00 00
+# 
+name: Red Color 4
+type: parsed
+protocol: NEC
+address: 00 FF 00 00
+command: 38 C7 00 00
+# 
+name: Green Color 4
+type: parsed
+protocol: NEC
+address: 00 FF 00 00
+command: B8 47 00 00
+# 
+name: Blue Color 4
+type: parsed
+protocol: NEC
+address: 00 FF 00 00
+command: 78 87 00 00
+# 
+name: White Color 4
+type: parsed
+protocol: NEC
+address: 00 FF 00 00
+command: F8 07 00 00
+# 
+name: Red Color 5
+type: parsed
+protocol: NEC
+address: 00 FF 00 00
+command: 18 E7 00 00
+# 
+name: Green Color 5
+type: parsed
+protocol: NEC
+address: 00 FF 00 00
+command: 98 67 00 00
+# 
+name: Blue Color 5
+type: parsed
+protocol: NEC
+address: 00 FF 00 00
+command: 58 A7 00 00
+# 
+name: White Color 5
+type: parsed
+protocol: NEC
+address: 00 FF 00 00
+command: D8 27 00 00
+# 
+name: Red Up
+type: parsed
+protocol: NEC
+address: 00 FF 00 00
+command: 28 D7 00 00
+# 
+name: Green Up
+type: parsed
+protocol: NEC
+address: 00 FF 00 00
+command: A8 57 00 00
+# 
+name: Blue Up
+type: parsed
+protocol: NEC
+address: 00 FF 00 00
+command: 68 97 00 00
+# 
+name: Quick
+type: parsed
+protocol: NEC
+address: 00 FF 00 00
+command: E8 17 00 00
+# 
+name: Red Dn
+type: parsed
+protocol: NEC
+address: 00 FF 00 00
+command: 08 F7 00 00
+# 
+name: Green Dn
+type: parsed
+protocol: NEC
+address: 00 FF 00 00
+command: 88 77 00 00
+# 
+name: Blue Dn
+type: parsed
+protocol: NEC
+address: 00 FF 00 00
+command: 48 B7 00 00
+# 
+name: Slow
+type: parsed
+protocol: NEC
+address: 00 FF 00 00
+command: C8 37 00 00
+# 
+name: DIY1
+type: parsed
+protocol: NEC
+address: 00 FF 00 00
+command: 30 CF 00 00
+# 
+name: DIY2
+type: parsed
+protocol: NEC
+address: 00 FF 00 00
+command: B0 4F 00 00
+# 
+name: DIY3
+type: parsed
+protocol: NEC
+address: 00 FF 00 00
+command: 70 8F 00 00
+# 
+name: Auto
+type: parsed
+protocol: NEC
+address: 00 FF 00 00
+command: F0 0F 00 00
+# 
+name: DIY4
+type: parsed
+protocol: NEC
+address: 00 FF 00 00
+command: 10 EF 00 00
+# 
+name: DIY5
+type: parsed
+protocol: NEC
+address: 00 FF 00 00
+command: 90 6F 00 00
+# 
+name: DIY6
+type: parsed
+protocol: NEC
+address: 00 FF 00 00
+command: 50 AF 00 00
+# 
+name: Flash
+type: parsed
+protocol: NEC
+address: 00 FF 00 00
+command: D0 2F 00 00
+# 
+name: Jump3
+type: parsed
+protocol: NEC
+address: 00 FF 00 00
+command: 20 DF 00 00
+# 
+name: Jump7
+type: parsed
+protocol: NEC
+address: 00 FF 00 00
+command: A0 5F 00 00
+# 
+name: Fade3
+type: parsed
+protocol: NEC
+address: 00 FF 00 00
+command: 60 9F 00 00
+# 
+name: Fade7
+type: parsed
+protocol: NEC
+address: 00 FF 00 00
+command: E0 1F 00 00
